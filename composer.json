@@ -2,9 +2,7 @@
     "name": "9852624/module-gateway",
     "description": "Payment for Magento 2.3.x",
     "require": {
-        "magento/module-payment": "100.3.*",
-        "magento/module-checkout": "100.3.*",
-        "magento/module-sales": "102.0.*"
+        "magento/framework": "^100.1.0|101.0.*|^102.0.0",
     },
     "type": "magento2-module",
     "license": [
