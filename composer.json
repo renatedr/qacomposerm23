@@ -1,0 +1,14 @@
+{
+    "name": "9852624/module-gateway",
+    "description": "Payment for Magento 2.3.x",
+    "require": {
+        "magento/module-payment": "100.3.*",
+        "magento/module-checkout": "100.3.*",
+        "magento/module-sales": "102.0.*"
+    },
+    "type": "magento2-module",
+    "license": [
+        "OSL-3.0",
+        "AFL-3.0"
+    ]
+}
